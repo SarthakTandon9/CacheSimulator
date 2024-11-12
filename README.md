@@ -1,9 +1,5 @@
 # HFT Cache Simulator
 
-![License](https://img.shields.io/github/license/yourusername/HFT-Cache-Simulator)
-![Build Status](https://img.shields.io/github/actions/workflow/status/yourusername/HFT-Cache-Simulator/build.yml?branch=main)
-![Stars](https://img.shields.io/github/stars/yourusername/HFT-Cache-Simulator?style=social)
-
 ## Table of Contents
 
 - [Introduction](#introduction)
